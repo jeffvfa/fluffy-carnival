@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 
 #analysis files 
-/data/*.csv
+/data/*.csv 
+
+#diagrams 
+*.png
